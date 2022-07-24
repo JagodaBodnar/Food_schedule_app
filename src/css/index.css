@@ -29,3 +29,6 @@ h6{
 .container_right{
     flex:2;
 }
+.header_wrapper{
+    margin: 20px;
+}
