@@ -1,0 +1,31 @@
+@import './variables.css';
+@import './recipe.css';
+@import './ingredientsList.css';
+
+
+body{
+    background-color: var(--main-background-color);
+    font-family: 'Inter', sans-serif;
+}
+p, h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 20px 0;
+}
+h6{
+    font-weight: 300;
+}
+.section{
+    display: flex;
+}
+.container_left{
+    flex: 1;
+    margin-right: 10%;
+    margin-top: 100px;
+}
+
+.container_right{
+    flex:2;
+}

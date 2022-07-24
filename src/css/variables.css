@@ -1,0 +1,12 @@
+/* colors */
+
+:root{
+    --main-background-color: #FFFAF4;
+    --secondary-color: #FFF2E0;
+    --white: #fff;
+    --main-error: #ED4040;
+    --brown: #837561;
+    --green: #70CF98;
+    --gray: #C7C7C7;
+    --dark_green: #299f5d;
+}
